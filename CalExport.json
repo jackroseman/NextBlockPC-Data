@@ -5,94 +5,14 @@
         Summary = "BM (US)";
     },
         {
-        End = "2016-11-28 08:50:00-05:00";
-        Start = "2016-11-28 08:10:00-05:00";
-        Summary = "AP Computer Science Principles - 1 (Block 8)";
-    },
-        {
-        End = "2016-11-28 09:35:00-05:00";
-        Start = "2016-11-28 08:55:00-05:00";
-        Summary = "AP Spanish - 1 (Block 7)";
-    },
-        {
-        End = "2016-11-28 10:20:00-05:00";
-        Start = "2016-11-28 09:40:00-05:00";
-        Summary = "AP Calculus (BC) - 1 (Block 6)";
-    },
-        {
-        End = "2016-11-28 11:05:00-05:00";
-        Start = "2016-11-28 10:25:00-05:00";
-        Summary = "English XII - 5 (Block 5)";
-    },
-        {
-        End = "2016-11-28 11:50:00-05:00";
-        Start = "2016-11-28 11:10:00-05:00";
-        Summary = "Advanced Physics - 1 (Block 4)";
-    },
-        {
-        End = "2016-11-28 13:05:00-05:00";
-        Start = "2016-11-28 12:35:00-05:00";
-        Summary = "Lunch - US (Lunch)";
-    },
-        {
         End = "2016-11-30";
         Start = "2016-11-29";
         Summary = "BT (US)";
     },
         {
-        End = "2016-11-29 09:30:00-05:00";
-        Start = "2016-11-29 08:10:00-05:00";
-        Summary = "English XII - 5 (Block 5)";
-    },
-        {
-        End = "2016-11-29 11:00:00-05:00";
-        Start = "2016-11-29 09:40:00-05:00";
-        Summary = "AP Calculus (BC) - 1 (Block 6)";
-    },
-        {
-        End = "2016-11-29 12:30:00-05:00";
-        Start = "2016-11-29 11:50:00-05:00";
-        Summary = "Advanced Physics - 1 (Block 4)";
-    },
-        {
-        End = "2016-11-29 13:05:00-05:00";
-        Start = "2016-11-29 12:31:00-05:00";
-        Summary = "Lunch - US (Lunch)";
-    },
-        {
-        End = "2016-11-29 14:30:00-05:00";
-        Start = "2016-11-29 13:10:00-05:00";
-        Summary = "AP Spanish - 1 (Block 7)";
-    },
-        {
         End = "2016-12-01";
         Start = "2016-11-30";
         Summary = "BW (US)";
-    },
-        {
-        End = "2016-11-30 09:30:00-05:00";
-        Start = "2016-11-30 08:10:00-05:00";
-        Summary = "AP Computer Science Principles - 1 (Block 8)";
-    },
-        {
-        End = "2016-11-30 11:45:00-05:00";
-        Start = "2016-11-30 11:05:00-05:00";
-        Summary = "English XII - 5 (Block 5)";
-    },
-        {
-        End = "2016-11-30 12:30:00-05:00";
-        Start = "2016-11-30 11:50:00-05:00";
-        Summary = "AP Calculus (BC) - 1 (Block 6)";
-    },
-        {
-        End = "2016-11-30 13:05:00-05:00";
-        Start = "2016-11-30 12:31:00-05:00";
-        Summary = "Lunch - US (Lunch)";
-    },
-        {
-        End = "2016-11-30 15:15:00-05:00";
-        Start = "2016-11-30 14:35:00-05:00";
-        Summary = "Advisory - Lynch (Advisory)";
     },
         {
         End = "2016-12-02";
