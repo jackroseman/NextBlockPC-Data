@@ -1,4 +1,4 @@
-(
+[
         {
         End = "2016-11-29";
         Start = "2016-11-28";
@@ -3459,4 +3459,4 @@
         Start = "2017-06-07";
         Summary = "Year End Assessments (US)";
     }
-)
+]
